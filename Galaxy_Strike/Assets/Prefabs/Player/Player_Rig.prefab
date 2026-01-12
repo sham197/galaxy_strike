@@ -296,6 +296,30 @@ PrefabInstance:
       propertyPath: targetPoint
       value: 
       objectReference: {fileID: 4989000504145230117}
+    - target: {fileID: 4151149490645464450, guid: d5ca68496d3ac2044a26760700630628, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4151149490645464450, guid: d5ca68496d3ac2044a26760700630628, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4292030381735428042, guid: d5ca68496d3ac2044a26760700630628, type: 3}
+      propertyPath: xClampRange
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4292030381735428042, guid: d5ca68496d3ac2044a26760700630628, type: 3}
+      propertyPath: yClampRange
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5320968067293563264, guid: d5ca68496d3ac2044a26760700630628, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5320968067293563264, guid: d5ca68496d3ac2044a26760700630628, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.3
+      objectReference: {fileID: 0}
     - target: {fileID: 7292625232112272060, guid: d5ca68496d3ac2044a26760700630628, type: 3}
       propertyPath: m_Name
       value: Player_Ship
